@@ -1,1 +1,1 @@
-# gkgit
+# gk git
